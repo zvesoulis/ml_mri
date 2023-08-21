@@ -4,6 +4,12 @@
 Created on Mon Oct 21 12:58:37 2019
 
 @author: zach
+
+%Copyright (c) 2022 Washington University 
+%Created by: Zachary Vesoulis
+%By using this software, you indicate agreement with the terms and
+%conditions outlined in COPYRIGHT.TXT
+
 """
 
 
