@@ -1,8 +1,8 @@
-Neonatal EEG Analysis Toolbox (NEAT)
-For the MATLAB Scientific Programming Language
+A Machine Learning Algorithm for Optimizing HIE MRI scoring
+For Python
 
-Copyright (c) 2017 Washington University 
-Created by: Zachary Vesoulis, Paul Gamble, Sid Jain, Amit Mathur
+Copyright (c) 2023 Washington University 
+Created by: Zachary Vesoulis
  
 Washington University hereby grants to you a non-transferable, non-exclusive, royalty-free, non-commercial, research license to use and copy the computer code that may be downloaded within this site (the “Software”).  You agree to include this license and the above copyright notice in all copies of the Software.  The Software may not be distributed, shared, or transferred to any third party.  This license does not grant any rights or licenses to any other patents, copyrights, or other forms of intellectual property owned or controlled by Washington University.  If interested in obtaining a commercial license, please contact Washington University's Office of Technology Management (otm@dom.wustl.edu).
  
