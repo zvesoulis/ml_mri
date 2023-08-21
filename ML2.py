@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Oct 21 12:58:37 2019
-
+This is the initial version of the algorithm, this version is depricated in favor of HIE_ML_new.py
 @author: zach
 
-%Copyright (c) 2022 Washington University 
-%Created by: Zachary Vesoulis
-%By using this software, you indicate agreement with the terms and
-%conditions outlined in COPYRIGHT.TXT
+Copyright (c) 2022 Washington University 
+Created by: Zachary Vesoulis
+By using this software, you indicate agreement with the terms and
+conditions outlined in COPYRIGHT.TXT
 
 """
 
